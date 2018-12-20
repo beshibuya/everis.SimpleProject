@@ -1,4 +1,4 @@
-﻿namespace Architettura.Model.Enums
+﻿namespace everis.SimpleProject.Model.Enums
 {
     public enum EnumPerfil
     {

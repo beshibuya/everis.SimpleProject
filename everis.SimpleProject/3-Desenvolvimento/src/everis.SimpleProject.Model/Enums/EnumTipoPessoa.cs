@@ -1,6 +1,6 @@
-﻿namespace Architettura.Model.Enums
+﻿namespace everis.SimpleProject.Model.Enums
 {
-    public enum eTipoPessoa
+    public enum EnumTipoPessoa
     {
         Fisica = 1,
         Juridica = 2
